@@ -15,5 +15,3 @@ sol1 = (-1-cmath.sqrt(r))/(2*1)
 sol2 = (-1+cmath.sqrt(r))/(2*1)
 
 print('The solution are {0} and {1}'.format(sol1,sol2))
-#ans=1+r/2*1*-1
-#print(ans)
